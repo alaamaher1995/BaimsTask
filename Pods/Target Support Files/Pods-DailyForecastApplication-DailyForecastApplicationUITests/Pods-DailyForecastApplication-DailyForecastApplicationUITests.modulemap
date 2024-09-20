@@ -1,0 +1,6 @@
+framework module Pods_DailyForecastApplication_DailyForecastApplicationUITests {
+  umbrella header "Pods-DailyForecastApplication-DailyForecastApplicationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
